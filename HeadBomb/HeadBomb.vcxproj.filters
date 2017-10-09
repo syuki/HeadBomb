@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="snStudy">
+      <UniqueIdentifier>{9ae126c9-32d5-4e9c-9942-709ddafc9e46}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snDirectInput.cpp">
+      <Filter>snStudy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snDrawElements.cpp">
+      <Filter>snStudy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snRenderingManager.cpp">
+      <Filter>snStudy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snSimplePrimitivePolygon2D.cpp">
+      <Filter>snStudy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snTextureManager.cpp">
+      <Filter>snStudy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snUpdateElements.cpp">
+      <Filter>snStudy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snXModel.cpp">
+      <Filter>snStudy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snLight.cpp">
+      <Filter>snStudy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snSprite.cpp">
+      <Filter>snStudy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snSceneManager.cpp">
+      <Filter>snStudy</Filter>
+    </ClCompile>
+    <ClCompile Include="Title.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Result.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snPartsModel.cpp">
+      <Filter>snStudy</Filter>
+    </ClCompile>
+    <ClCompile Include="CMotionModel.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snDirectInput.h">
+      <Filter>snStudy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snDrawElements.h">
+      <Filter>snStudy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snMath.h">
+      <Filter>snStudy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snRenderingManager.h">
+      <Filter>snStudy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snSimplePrimitivePolygon2D.h">
+      <Filter>snStudy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snStudy.h">
+      <Filter>snStudy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snTextureManager.h">
+      <Filter>snStudy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snUpdateElements.h">
+      <Filter>snStudy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snXModel.h">
+      <Filter>snStudy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snLight.h">
+      <Filter>snStudy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snSprite.h">
+      <Filter>snStudy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snSceneManager.h">
+      <Filter>snStudy</Filter>
+    </ClInclude>
+    <ClInclude Include="Title.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Result.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snPartsModel.h">
+      <Filter>snStudy</Filter>
+    </ClInclude>
+    <ClInclude Include="CMotionModel.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\SkyDrive\AddLidrary\snStudy\snMath.inl">
+      <Filter>snStudy</Filter>
+    </None>
+  </ItemGroup>
+</Project>
